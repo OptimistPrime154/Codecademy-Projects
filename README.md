@@ -3,7 +3,7 @@
 This repository contains a collection of projects that I completed as part of Codecademy's courses in web development, programming, and data analysis.
 
 ## Projects Included
-1. **[Block Letters]** - [Display your initials on screen in block characters to create an ASCII art."]
+1. **Block Letters** - Display your initials on screen in block characters to create an ASCII art.
 2. **[Receipts for Lovely Loveseats]** - [Keep receipts for your lovely loveseats. Programming is a treat with this sweet suite of feats! Use strings and numbers to save a catalog of furniture, then perform concatenation and math calculations to create a receipt."]
 3. **[Magic 8-Ball]** - [We’ve learned about and explored a powerful tool in Python — control flow! It’s so powerful, in fact, that it can be used to tell someone’s fortune."]
 4. **[Sal's Shipping]** - [Use your knowledge of control flow to create a program that will help Sal's customers get the best deals on all their shipping needs."]
