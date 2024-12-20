@@ -19,15 +19,15 @@ This repository contains a collection of projects that I completed as part of Co
 
 ## Purpose
 These projects demonstrate my basic understanding of key concepts of Python 3
-- "Control Flow."
-- ["Lists."]
-- ["Loops."]
-- ["Functions."]
-- ["Strings."]
-- ["Modules."]
-- ["Dictionaries."]
-- ["Files."]
-- ["Classes."]
+- **Control Flow**
+- **Lists**
+- **Loops**
+- **Functions**
+- **Strings**
+- **Modules**
+- **Dictionaries**
+- **Files**
+- **Classes**
 
-## Acknowledgments
+## 🙏 Acknowledgments
 Special thanks to Codecademy for providing structured lessons and real-world project opportunities.
