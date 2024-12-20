@@ -19,9 +19,15 @@ This repository contains a collection of projects that I completed as part of Co
 
 ## Purpose
 These projects demonstrate my basic understanding of key concepts of Python 3
-- [Skill 1, e.g., "Responsive web design."]
-- [Skill 2, e.g., "Basic algorithms and data structures."]
-- [Skill 3, e.g., "Using APIs in Python."]
+- ["Control Flow."]
+- ["Lists."]
+- ["Loops."]
+- ["Functions."]
+- ["Strings."]
+- ["Modules."]
+- ["Dictionaries."]
+- ["Files."]
+- ["Classes."]
 
 ## Acknowledgments
 Special thanks to Codecademy for providing structured lessons and real-world project opportunities.
